@@ -1,22 +1,24 @@
-﻿# Knight Onlineâ€™da Proxy KullanÄ±mÄ±: Ping, IP Ban ve BÃ¶lgesel EriÅŸim Rehberi
+# Knight Online için Proxy Kullanımı: Ping, IP Ban ve Bölgesel Erişim Rehberi
 
-Bu repo, Knight Online oyuncularÄ± iÃ§in proxy kullanÄ±mÄ±nÄ± pratik ve anlaÅŸÄ±lÄ±r ÅŸekilde anlatan kÄ±sa bir rehberdir.
+Bu repo, Knight Online oyuncuları için proxy kullanımını pratik ve anlaşılır şekilde anlatan kısa bir rehberdir.
 
-## HÄ±zlÄ± linkler
-- BoÄŸaProxy resmi sayfa: https://bogaproxy.com/s/knight-online-proxy
-- FiyatlandÄ±rma: https://bogaproxy.com/fiyatlandirma
-- Ä°letiÅŸim: https://bogaproxy.com/iletisim
+## Hızlı linkler
+- BoğaProxy resmi sayfa: https://bogaproxy.com/s/knight-online-proxy
+- Fiyatlandırma: https://bogaproxy.com/fiyatlandirma
+- İletişim: https://bogaproxy.com/iletisim
 
-## Ne zaman iÅŸe yarar?
-- BÃ¶lgesel eriÅŸim sorunlarÄ± / sunucu kÄ±sÄ±tlamalarÄ±
-- Ping dalgalanmasÄ± / rota problemleri
-- Ã‡oklu hesap/karakter yÃ¶netimi
-- IP kaynaklÄ± geÃ§ici eriÅŸim problemleri
+## Ne zaman işe yarar?
+- Bölgesel erişim sorunları / sunucu kısıtlamaları
+- Ping dalgalanması / rota problemleri
+- Çoklu hesap/karakter yönetimi
+- IP kaynaklı geçici erişim problemleri
 
-Metin iÃ§inde hedef kelimeyi doÄŸal biÃ§imde kullanmak iÃ§in Ã¶rnek: **[Knight Online proxy](https://bogaproxy.com/s/knight-online-proxy)**.
+Metin içinde hedef kelimeyi doğal biçimde kullanmak için örnek: **[Knight Online proxy](https://bogaproxy.com/s/knight-online-proxy)**.
 
 ## Yasal / etik not
-Proxy kullanÄ±mÄ± oyunun hizmet ÅŸartlarÄ±na (ToS) baÄŸlÄ±dÄ±r. Bu iÃ§erik kÃ¶tÃ¼ye kullanÄ±m iÃ§in deÄŸil, baÄŸlantÄ± ve eriÅŸim sorunlarÄ±na yÃ¶nelik genel bilgilendirme amaÃ§lÄ±dÄ±r.
+Proxy kullanımı oyunun hizmet şartlarına (ToS) bağlıdır. Bu içerik kötüye kullanım için değil, bağlantı ve erişim sorunlarına yönelik genel bilgilendirme amaçlıdır.
 
 ## Son not
-Paketleri incelemek iÃ§in: https://bogaproxy.com/s/knight-online-proxy
+Paketleri incelemek için: https://bogaproxy.com/s/knight-online-proxy
+
+
